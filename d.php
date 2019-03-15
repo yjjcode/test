@@ -1,5 +1,5 @@
 <?php
 	echo 'hello word';
 	echo phpinfo();
-//dev
+//yjj_dev
 ?>
